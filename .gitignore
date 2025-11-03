@@ -1,6 +1,4 @@
-# =============== #
-# Unity Generated #
-# =============== #
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -32,7 +30,7 @@ ExportedObj/
 *.pdb
 *.mdb
 
-# Unity3D generated file on crash reports
+# Crash reports
 sysinfo.txt
 
 # Builds
