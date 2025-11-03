@@ -5,15 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 4755b35b590504809a7525fd2109c2e2
   - enabled: 0
     path: Assets/Scenes/Basic_Face_Filter.unity
     guid: 2339e5662853f8b47bb0600ec188ff7a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/AR_Marker.unity
     guid: 536bea0193858f74aad6f916ecfdf8ad
+  - enabled: 0
+    path: Assets/Scenes/ARTemplateScene.unity
+    guid: 0eba3f0e8711d6747855c4453edee2c6
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
