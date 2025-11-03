@@ -33,7 +33,7 @@ ExportedObj/
 # Crash reports
 sysinfo.txt
 
-# Builds
+# Builds 
 *.apk
 *.aab
 *.unitypackage
